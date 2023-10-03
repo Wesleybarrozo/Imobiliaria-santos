@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    text-align: center;
+}
+
+.capa{
+    background-color: #b0ddfc;
+
+}
+
+.capa li{
+    display: flex;
+    display: inline;
+
+
+
+
+}
+
+.capa a{
+    text-decoration: none;
+}
+
+.capa img{
+    width: 140px;
+
+
+}
+
+.secao1{
+    background-color: #ffffff;
+
+}
+
+.secao1 img{
+    width: 250px;
+}
+
+.secao2{
+    background-color: #1d80c1;
+
+}
+
+
+
+.secao3{
+    background-color: #ffffff;
+
+}
+
+.secao3 img{
+    width: 250px;
+}
+
+.secao4{
+    background-color: #1d80c1;
+
+}
